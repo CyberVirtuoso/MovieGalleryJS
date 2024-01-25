@@ -120,7 +120,7 @@ function handleSaveToFavourites(event, listID)
             }
             const {isFavourite} = clickedMovieObj;
             const hearIcon = isFavourite ? 'favourite.svg' : 'not-favourite.svg'
-            clickedMovieBtnIcon.insertAdjacentHTML('beforeend', `<img src="assets/icons/${hearIcon}" alt='saveToFavouriteIcon'/>`)
+            clickedMovieBtnIcon.insertAdjacentHTML('beforeend', `<img src="public/assets/icons/${hearIcon}" alt='saveToFavouriteIcon'/>`)
             clickedMovieBtnIcon.children[0].remove();
             break;
         }
