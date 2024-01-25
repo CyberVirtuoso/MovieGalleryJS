@@ -1,0 +1,2 @@
+export const ALL_MOVIES = 'ALL_MOVIES';
+export const FAVORITE_MOVIES = 'FAVORITE_MOVIES'
