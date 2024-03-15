@@ -2,4 +2,4 @@
 # MovieGalleryJS
 Галерея фильмов на чистом JS
 ## Посмотреть👇
-https://dedmasterdeveloper.github.io/MovieGalleryJS/
+https://cybervirtuoso.github.io/UserCardsJS/
